@@ -28,4 +28,7 @@ Transorter is a system based robot based on arduino for it's main controller and
   7. microcontroller moves the links according to the calculation
   8. When the output position is reached the end effector disengages and the robot returns to it's initial position
 
+Watch working Video:
+https://drive.google.com/file/d/1aI5gfKcouDieq0nfYjQXC8FpY32KMXMp/view?usp=sharing
+
 
